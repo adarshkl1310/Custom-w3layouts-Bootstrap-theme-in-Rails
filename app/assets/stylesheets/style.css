@@ -411,7 +411,7 @@ li > a:only-child:after {
 /*-- //header --*/
 
 .main-content {
-    background: url(/assets/trade.jpg) center no-repeat;
+    background-image: url("trade.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -870,7 +870,7 @@ span.title {
 }
 
 .stats {
-    background: url(/assets/trade1.jpg) no-repeat 0px 0px;
+    background-image: url("trade1.jpg");
     background-size: cover;
     position: relative;
 }
@@ -967,7 +967,8 @@ section#gallery {
 }
 /* testimonials */
 .testi {
-        background: url(/assets/trade2.jpg) no-repeat 0px 0px;
+    background-image: url("trade2.jpg");
+        
     background-size: cover;
     position: relative;;
 }
@@ -1080,7 +1081,7 @@ h6.b-w3ltxt span {
 /* footer */
 
 .footer-content {
-    background: url(/assets/trade3.jpg) center no-repeat;
+    background-image: url("trade3.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
